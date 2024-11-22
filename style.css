@@ -73,3 +73,7 @@ h1{
   gap: 1rem;
   padding: 0px 1rem;
 }
+
+img{
+   border-radius: .625rem;
+}
